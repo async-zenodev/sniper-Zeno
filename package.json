@@ -1,0 +1,36 @@
+{
+  "name": "sniper-zeno",
+  "version": "1.0.0",
+  "description": "nitro sniper very fast ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx nodemon index.js",
+    "dev": "npx nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/async-zenodev/sniper-Zeno.git"
+  },
+  "keywords": [
+    "nitro",
+    "snipper",
+    "free-Nitro",
+    "zeno",
+    "nitro-free",
+    "free",
+    "free-stuff",
+    "cracker",
+    "educatinal"
+  ],
+  "author": "zenodev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/async-zenodev/sniper-Zeno/issues"
+  },
+  "homepage": "https://github.com/async-zenodev/sniper-Zeno#readme",
+  "dependencies": {
+    "axios": "^1.12.2",
+    "http-proxy-agent": "^7.0.2",
+    "https-proxy-agent": "^7.0.6"
+  }
+}
